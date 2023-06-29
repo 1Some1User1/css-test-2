@@ -38,7 +38,6 @@
   color: blue;
 }
 
-/* Завдання 10 */
 .lesson-four-task-ten form .form-group input:enabled {
   background-color: yellow;
   color: red;
@@ -64,7 +63,6 @@
   background-color: red;
 }
 
-/* Завдання 15 */
 .lesson-four-task-fifteen input:optional,
 textarea {
   background-color: red;
@@ -87,7 +85,6 @@ textarea {
   color: white;
 }
 
-/* Завдання 20 */
 .lesson-four-task-twenty form input:invalid {
   background-color: red;
 }
